@@ -14,6 +14,9 @@ alongside Bcom Major in Econ & Finance at UWA
 - **Pairs Trading Algorithm** — EURGBP/EURUSD FX pairs strategy using 
   Engle-Granger cointegration testing, rolling z-score signals, and 
   full P&L backtest with Sharpe ratio and drawdown analysis
+- **EUR Yield Curve Model** — Nelson-Siegel model fitted to ECB AAA sovereign 
+  yield data, parameter history tracking the full ECB hiking cycle, relative 
+  value heatmap and live trade signals across 10 maturities
 
 ## Tools
 Python · Jupyter · NumPy · Pandas · Plotly · yfinance
